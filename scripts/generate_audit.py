@@ -182,3 +182,5 @@ def main():
     print(json.dumps({"ui_count":shown,"public_unique":len(rows),"gap":gap,"categories":len(g),"deep":sum(x["deep"] for x in rows)},ensure_ascii=False))
 
 if __name__=="__main__":main()
+
+# bootstrap-trigger: 2026-10-25
