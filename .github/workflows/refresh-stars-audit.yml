@@ -1,0 +1,52 @@
+name: Refresh GitHub stars audit
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - audit/github-stars-645
+    paths:
+      - scripts/generate_audit.py
+      - .github/workflows/refresh-stars-audit.yml
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout exact branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Generate audit
+        run: python3 scripts/generate_audit.py
+
+      - name: Validate census
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          rows=json.loads(Path("data/stars_public.json").read_text())
+          assert len(rows) > 0
+          assert len({x["name"] for x in rows}) == len(rows)
+          links=sum(1 for x in rows if x.get("url","").startswith("https://github.com/"))
+          assert links == len(rows)
+          print(f"validated rows={len(rows)} unique={len(rows)} links={links}")
+          PY
+
+      - name: Commit generated audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md DEEP_DIVE.md GAP_13.md catalog data
+          if git diff --cached --quiet; then
+            echo "No audit changes"
+            exit 0
+          fi
+          git commit -m "docs: refresh GitHub stars audit"
+          git push origin HEAD:${{ github.ref_name }}

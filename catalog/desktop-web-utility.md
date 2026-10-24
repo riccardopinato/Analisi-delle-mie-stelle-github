@@ -1,0 +1,61 @@
+# Desktop / web utility
+
+Repo: **55**
+
+| # | Repo | Utilità | Facilità | Approfondire | Linguaggio | Futuro pratico |
+|---:|---|---:|---:|---|---|---|
+| 1 | [team-spotube/spotube](https://github.com/team-spotube/spotube) | 99% | 85% | Sì | Dart | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 2 | [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | 99% | 69% | Sì | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 3 | [tw93/Pake](https://github.com/tw93/Pake) | 99% | 63% | Sì | Rust | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 4 | [nukeop/nuclear](https://github.com/nukeop/nuclear) | 99% | 62% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 5 | [sxyazi/yazi](https://github.com/sxyazi/yazi) | 99% | 56% | Sì | Rust | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 6 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 99% | 55% | Sì | Rust | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 7 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 99% | 55% | Sì | Rust | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 8 | [trycua/cua](https://github.com/trycua/cua) | 99% | 48% | Sì | Rust | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 9 | [jipraks/yt-short-clipper](https://github.com/jipraks/yt-short-clipper) | 98% | 74% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 10 | [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) | 98% | 74% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 11 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 98% | 59% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 12 | [fosslife/devtools-x](https://github.com/fosslife/devtools-x) | 98% | 59% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 13 | [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) | 96% | 69% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 14 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | 94% | 66% | Sì | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 15 | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 92% | 92% | Sì | Markdown | Dataset ideale per CmdPocket e per un Offline Content Pack opzionale in Notes. |
+| 16 | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | 92% | 69% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 17 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 92% | 55% | Sì | Rust | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 18 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 91% | 74% | Sì | Rust | Tecnologia chiave per Desktop Utility Factory; ottimo per Android QA Cockpit e micro-utility PC. |
+| 19 | [pystardust/ani-cli](https://github.com/pystardust/ani-cli) | 88% | 77% | Sì | Shell | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 20 | [playwora/wora](https://github.com/playwora/wora) | 86% | 66% | Sì | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 21 | [xgetter-team/xgetter](https://github.com/xgetter-team/xgetter) | 84% | 58% | Sì | — | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 22 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 79% | 55% | No | C++ | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 23 | [janhq/jan](https://github.com/janhq/jan) | 78% | 55% | No | Rust | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 24 | [truelockmc/streambert](https://github.com/truelockmc/streambert) | 77% | 67% | No | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 25 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 71% | 52% | No | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 26 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 70% | 70% | No | Shell | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 27 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 65% | 48% | Sì | Rust | Laboratorio Rust multipiattaforma interessante per binari piccoli; non sostituisce Flutter. |
+| 28 | [asLody/whale](https://github.com/asLody/whale) | 63% | 45% | No | C++ | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 29 | [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) | 61% | 69% | No | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 30 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 61% | 69% | No | PowerShell | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 31 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 61% | 55% | No | Swift | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 32 | [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) | 59% | 67% | No | Go | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 33 | [BuddiesOfBudgie/budgie-desktop](https://github.com/BuddiesOfBudgie/budgie-desktop) | 59% | 58% | No | Vala | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 34 | [jeetrex17/TDrive](https://github.com/jeetrex17/TDrive) | 57% | 66% | No | Go | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 35 | [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | 52% | 77% | No | Python | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 36 | [elementdavv/internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) | 50% | 74% | No | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 37 | [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 50% | 67% | No | Go | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 38 | [Qonfused/OSX-Hyper-V](https://github.com/Qonfused/OSX-Hyper-V) | 50% | 58% | No | ASL | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 39 | [gadingnst/ig-friendship-checker](https://github.com/gadingnst/ig-friendship-checker) | 49% | 74% | No | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 40 | [braden-w/whispering](https://github.com/braden-w/whispering) | 48% | 48% | No | — | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 41 | [dbrojas/optlib](https://github.com/dbrojas/optlib) | 45% | 74% | No | Python | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 42 | [google/zx](https://github.com/google/zx) | 43% | 77% | No | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 43 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | 43% | 62% | No | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 44 | [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 43% | 61% | No | — | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 45 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 43% | 61% | No | Batchfile | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 46 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 43% | 48% | No | C++ | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 47 | [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) | 41% | 66% | No | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 48 | [amule-project/amule](https://github.com/amule-project/amule) | 41% | 53% | No | C++ | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 49 | [winfsp/winfsp](https://github.com/winfsp/winfsp) | 41% | 52% | No | C | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 50 | [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) | 41% | 52% | No | Swift | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 51 | [ananasmoe/wallhaven-cli](https://github.com/ananasmoe/wallhaven-cli) | 36% | 74% | No | Go | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 52 | [KalyanM45/Doclify](https://github.com/KalyanM45/Doclify) | 36% | 74% | No | Python | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 53 | [Ethan04Munoz/trackStock](https://github.com/Ethan04Munoz/trackStock) | 36% | 66% | No | JavaScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 54 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 35% | 59% | No | TypeScript | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
+| 55 | [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | 35% | 45% | No | C++ | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
