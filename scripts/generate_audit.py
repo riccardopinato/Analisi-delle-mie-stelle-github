@@ -165,7 +165,8 @@ def main():
         for i,x in enumerate(xs,1):z.append(f'| {i} | [{x["name"]}]({x["url"]}) | {x["utility"]}% | {x["ease"]}% | {"Sì" if x["deep"] else "No"} | {x["language"]} | {x["future"]} |')
         (CATALOG/f"{slug(cat)}.md").write_text("\n".join(z)+"\n",encoding="utf-8")
     counts=Counter(x["category"] for x in rows)
-    top=[x for x in rows if x["name"] in OV]\n    top.sort(key=lambda x:(x["utility"],x["ease"],x["stars"]),reverse=True)
+    top=[x for x in rows if x["name"] in OV]
+    top.sort(key=lambda x:(x["utility"],x["ease"],x["stars"]),reverse=True)
     read=["# Analisi delle mie stelle GitHub","","> Registro vivo orientato a App Factory, AppLab, ChatGPT, sviluppo app, automazione e nuove idee prodotto.","","## Stato del censimento","",f"- Ultimo refresh: **{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}**.",f"- Conteggio mostrato dalla pagina GitHub Stars: **{shown}**.",f"- Repository pubbliche enumerabili via API: **{len(rows)} uniche**.",f"- Gap non enumerabile: **{gap}**.",f"- Factory baseline audit iniziale: {FACTORY} — Master v26.6, Golden Index v19.","- Licenze: **non considerate nello scoring**, su richiesta.","","## Metodo","","- **Utilità %**: impatto concreto su programmazione, gestione, velocità, QA, AppLab/App Factory/ChatGPT o nuove app.","- **Facilità integrazione %**: semplicità di adozione senza migrazioni o nuovo debito tecnico.","- **Approfondire**: Sì = merita README/code review mirata; No = catalogo sufficiente finché non emerge un requisito.","- Le schede di DEEP_DIVE.md e questa classifica curatoriale prevalgono sulla sola classificazione automatica dei cataloghi.","","## Distribuzione per categoria","","| Categoria | Repo |","|---|---:|"]
     for c,n in counts.most_common():read.append(f"| {c} | {n} |")
     read+=["","## Priorità operative — valutazione curatoriale","","| Repo | Utilità | Facilità | Destinazione | Futuro pratico |","|---|---:|---:|---|---|"]
