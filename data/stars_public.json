@@ -668,7 +668,7 @@
     "ease": 61,
     "deep": false,
     "future": "Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile.",
-    "stars": 195982,
+    "stars": 195983,
     "pushed_at": "2026-10-17T01:33:16Z"
   },
   {
@@ -1172,7 +1172,7 @@
     "ease": 62,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 175514,
+    "stars": 175515,
     "pushed_at": "2026-10-18T01:55:14Z"
   },
   {
@@ -1196,7 +1196,7 @@
     "ease": 72,
     "deep": true,
     "future": "Riferimento per accesso agentico a fonti web/social; utile per reconnaissance e idea discovery.",
-    "stars": 101744,
+    "stars": 101746,
     "pushed_at": "2026-10-23T06:44:33Z"
   },
   {
@@ -1557,7 +1557,7 @@
     "deep": false,
     "future": "Studiare per Notes-Ecosistema/Anna's Diary: editor, search, sync, calendar, task, knowledge model, import/export o progressive disclosure.",
     "stars": 20252,
-    "pushed_at": "2026-10-24T23:20:33Z"
+    "pushed_at": "2026-10-24T23:34:02Z"
   },
   {
     "name": "remotion-dev/skills",
@@ -1580,7 +1580,7 @@
     "ease": 62,
     "deep": false,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 29730,
+    "stars": 29731,
     "pushed_at": "2026-10-08T22:17:01Z"
   },
   {
@@ -1677,7 +1677,7 @@
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
     "stars": 71469,
-    "pushed_at": "2026-10-24T23:31:40Z"
+    "pushed_at": "2026-10-24T23:34:28Z"
   },
   {
     "name": "LibreChat-AI/LibreChat",
@@ -1761,7 +1761,7 @@
     "deep": false,
     "future": "Estrarre pattern UI/UX, design tokens, motion o component composition e ricondurli al design system della Factory.",
     "stars": 4269,
-    "pushed_at": "2026-10-24T23:22:42Z"
+    "pushed_at": "2026-10-24T23:33:14Z"
   },
   {
     "name": "odysseus-dev/odysseus",
@@ -2444,7 +2444,7 @@
     "ease": 77,
     "deep": true,
     "future": "Reference per TrailPath/CamperBoss/Wonderlog: mappe, routing, GPS, offline data o UX outdoor.",
-    "stars": 40944,
+    "stars": 40945,
     "pushed_at": "2026-10-24T16:48:03Z"
   },
   {
@@ -2780,7 +2780,7 @@
     "ease": 69,
     "deep": false,
     "future": "Valutare per FrameLab, Notes Document Workspace o una micro-utility dedicata; preferire core riusabili e processing locale.",
-    "stars": 84934,
+    "stars": 84935,
     "pushed_at": "2026-10-24T22:50:18Z"
   },
   {
@@ -3116,8 +3116,8 @@
     "ease": 48,
     "deep": true,
     "future": "Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile.",
-    "stars": 30875,
-    "pushed_at": "2026-10-24T23:32:12Z"
+    "stars": 30876,
+    "pushed_at": "2026-10-24T23:34:33Z"
   },
   {
     "name": "AhmadIbrahiim/Website-downloader",
@@ -3320,7 +3320,7 @@
     "ease": 69,
     "deep": false,
     "future": "Estrarre pattern UI/UX, design tokens, motion o component composition e ricondurli al design system della Factory.",
-    "stars": 58465,
+    "stars": 58466,
     "pushed_at": "2026-10-07T01:17:58Z"
   },
   {
@@ -3500,7 +3500,7 @@
     "ease": 58,
     "deep": true,
     "future": "Reference per orchestrazione multi-agent; può ispirare una console App Factory.",
-    "stars": 106951,
+    "stars": 106952,
     "pushed_at": "2026-10-24T23:29:54Z"
   },
   {
@@ -3980,7 +3980,7 @@
     "ease": 54,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 67978,
+    "stars": 67979,
     "pushed_at": "2026-10-24T06:33:56Z"
   },
   {
@@ -3992,7 +3992,7 @@
     "ease": 69,
     "deep": false,
     "future": "Utile per discovery, scraping, benchmark e automazioni; integrare nel workflow solo se riduce lavoro manuale ricorrente.",
-    "stars": 134862,
+    "stars": 134863,
     "pushed_at": "2026-10-24T00:15:33Z"
   },
   {
@@ -4088,7 +4088,7 @@
     "ease": 69,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 256806,
+    "stars": 256807,
     "pushed_at": "2026-10-24T23:20:31Z"
   },
   {
@@ -4124,7 +4124,7 @@
     "ease": 55,
     "deep": false,
     "future": "Utile per discovery, scraping, benchmark e automazioni; integrare nel workflow solo se riduce lavoro manuale ricorrente.",
-    "stars": 99442,
+    "stars": 99443,
     "pushed_at": "2026-10-24T21:59:18Z"
   },
   {
@@ -4340,7 +4340,7 @@
     "ease": 62,
     "deep": false,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 304629,
+    "stars": 304630,
     "pushed_at": "2026-10-23T03:48:57Z"
   },
   {
@@ -4364,7 +4364,7 @@
     "ease": 72,
     "deep": true,
     "future": "Candidate forte per ottimizzazione harness agentico: memory, research-first, skill/instinct e security.",
-    "stars": 288069,
+    "stars": 288073,
     "pushed_at": "2026-10-20T23:08:28Z"
   },
   {
@@ -4472,7 +4472,7 @@
     "ease": 62,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 81705,
+    "stars": 81706,
     "pushed_at": "2026-10-16T03:32:19Z"
   },
   {
@@ -4532,7 +4532,7 @@
     "ease": 63,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 31854,
+    "stars": 31855,
     "pushed_at": "2026-10-06T20:23:04Z"
   },
   {
@@ -4556,8 +4556,8 @@
     "ease": 62,
     "deep": false,
     "future": "Reference secondaria; approfondire solo se emerge un requisito direttamente collegato.",
-    "stars": 392954,
-    "pushed_at": "2026-10-24T23:31:46Z"
+    "stars": 392956,
+    "pushed_at": "2026-10-24T23:34:01Z"
   },
   {
     "name": "ai-boost/awesome-prompts",
@@ -4760,7 +4760,7 @@
     "ease": 82,
     "deep": true,
     "future": "Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente.",
-    "stars": 7309,
+    "stars": 7310,
     "pushed_at": "2026-10-23T09:08:42Z"
   },
   {
@@ -4844,7 +4844,7 @@
     "ease": 61,
     "deep": false,
     "future": "Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile.",
-    "stars": 51003,
+    "stars": 51004,
     "pushed_at": "2026-10-21T21:06:09Z"
   },
   {
@@ -5036,7 +5036,7 @@
     "ease": 62,
     "deep": false,
     "future": "Reference secondaria; approfondire solo se emerge un requisito direttamente collegato.",
-    "stars": 330011,
+    "stars": 330012,
     "pushed_at": "2026-10-22T19:52:53Z"
   },
   {
@@ -5096,7 +5096,7 @@
     "ease": 54,
     "deep": false,
     "future": "Fonte di hardening/reconnaissance per AppLab/App Factory; trasformare finding utili in checklist/test.",
-    "stars": 330019,
+    "stars": 330020,
     "pushed_at": "2026-10-22T14:44:35Z"
   },
   {
@@ -5912,7 +5912,7 @@
     "ease": 64,
     "deep": true,
     "future": "Riferimento per browser agents e automazione web esterna con navigazione autonoma controllata.",
-    "stars": 119058,
+    "stars": 119059,
     "pushed_at": "2026-10-24T07:23:03Z"
   },
   {
@@ -6104,7 +6104,7 @@
     "ease": 62,
     "deep": false,
     "future": "Estrarre pattern UI/UX, design tokens, motion o component composition e ricondurli al design system della Factory.",
-    "stars": 20842,
+    "stars": 20843,
     "pushed_at": "2026-10-20T22:15:42Z"
   },
   {
@@ -6392,7 +6392,7 @@
     "ease": 61,
     "deep": false,
     "future": "Studiare per Notes-Ecosistema/Anna's Diary: editor, search, sync, calendar, task, knowledge model, import/export o progressive disclosure.",
-    "stars": 524160,
+    "stars": 524162,
     "pushed_at": "2026-09-02T02:10:47Z"
   },
   {
@@ -7185,7 +7185,7 @@
     "deep": false,
     "future": "Reference secondaria; approfondire solo se emerge un requisito direttamente collegato.",
     "stars": 10013,
-    "pushed_at": "2026-10-24T23:17:03Z"
+    "pushed_at": "2026-10-24T23:34:34Z"
   },
   {
     "name": "continue-revolution/sd-webui-animatediff",

@@ -4,7 +4,7 @@
 
 ## Stato del censimento
 
-- Ultimo refresh: **2026-10-24 23:32 UTC**.
+- Ultimo refresh: **2026-10-24 23:34 UTC**.
 - Conteggio mostrato dalla pagina GitHub Stars: **645**.
 - Repository pubbliche enumerabili via API: **632 uniche**.
 - Gap non enumerabile: **13**.
@@ -16,7 +16,7 @@
 - **Utilità %**: impatto concreto su programmazione, gestione, velocità, QA, AppLab/App Factory/ChatGPT o nuove app.
 - **Facilità integrazione %**: semplicità di adozione senza migrazioni o nuovo debito tecnico.
 - **Approfondire**: Sì = merita README/code review mirata; No = catalogo sufficiente finché non emerge un requisito.
-- Le schede di DEEP_DIVE.md prevalgono sulla sola classificazione automatica.
+- Le schede di DEEP_DIVE.md e questa classifica curatoriale prevalgono sulla sola classificazione automatica dei cataloghi.
 
 ## Distribuzione per categoria
 
@@ -39,50 +39,46 @@
 | QA / testing / debugging | 9 |
 | Idea prodotto / utility generale | 9 |
 
-## Top candidati operativi
+## Priorità operative — valutazione curatoriale
 
 | Repo | Utilità | Facilità | Destinazione | Futuro pratico |
 |---|---:|---:|---|---|
-| [team-spotube/spotube](https://github.com/team-spotube/spotube) | 99% | 85% | Desktop/Web Utility Factory | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 99% | 84% | AppLab · App Factory | Priorità AppLab/App Factory: mirroring device, recording, screenshot, riproduzione bug ed Evidence Bundle. Base per Android QA Cockpit. |
-| [mornyeapp/Mornye](https://github.com/mornyeapp/Mornye) | 99% | 82% | App Flutter · App Factory | Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente. |
-| [TheCodeMonks/Notzz-App](https://github.com/TheCodeMonks/Notzz-App) | 99% | 82% | Utility native · App Factory | Donor/reference per utility Kotlin/Android o capability native Flutter: servizi, tile, permessi, Shizuku o system integration. |
-| [Hash-Studios/Prism](https://github.com/Hash-Studios/Prism) | 99% | 82% | App Flutter · App Factory | Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente. |
-| [greyovo/PicQuery](https://github.com/greyovo/PicQuery) | 99% | 82% | App Flutter · App Factory | Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente. |
-| [komi-store/komi-store](https://github.com/komi-store/komi-store) | 99% | 78% | Utility native · App Factory | Donor/reference per utility Kotlin/Android o capability native Flutter: servizi, tile, permessi, Shizuku o system integration. |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 99% | 77% | AppLab · App Factory | Valutare per AppLab: failure detection, runtime evidence, debug o performance; incapsulare come adapter/tool di QA. |
-| [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [ente/ente](https://github.com/ente/ente) | 99% | 77% | AppLab · security | Fonte di hardening/reconnaissance per AppLab/App Factory; trasformare finding utili in checklist/test. |
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 99% | 77% | AppLab · App Factory | Valutare per AppLab: failure detection, runtime evidence, debug o performance; incapsulare come adapter/tool di QA. |
-| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | 99% | 77% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [edde746/plezy](https://github.com/edde746/plezy) | 99% | 75% | App Flutter · App Factory | Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente. |
-| [7-USH/TeVe](https://github.com/7-USH/TeVe) | 99% | 75% | App Flutter · App Factory | Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente. |
-| [surtecha/karman-deprecated](https://github.com/surtecha/karman-deprecated) | 99% | 74% | App Flutter · App Factory | Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente. |
-| [xLexip/Adaptive-Theme](https://github.com/xLexip/Adaptive-Theme) | 99% | 74% | Utility native · App Factory | Donor/reference per utility Kotlin/Android o capability native Flutter: servizi, tile, permessi, Shizuku o system integration. |
-| [DFKHelper/token-goat](https://github.com/DFKHelper/token-goat) | 99% | 74% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 99% | 70% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | 99% | 70% | App Flutter · App Factory | Reference/donor per app Flutter; estrarre solo feature o pattern compatibili con lo stack corrente. |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 99% | 70% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 99% | 70% | ChatGPT · automazione esterna | Utile per discovery, scraping, benchmark e automazioni; integrare nel workflow solo se riduce lavoro manuale ricorrente. |
-| [libgdx/libgdx](https://github.com/libgdx/libgdx) | 99% | 70% | Game Factory | Bacino Game Factory: engine, gameplay loop, rendering o backend; confrontare sempre con Flame/Godot. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 99% | 69% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [huginn/huginn](https://github.com/huginn/huginn) | 99% | 69% | ChatGPT · automazione esterna | Utile per discovery, scraping, benchmark e automazioni; integrare nel workflow solo se riduce lavoro manuale ricorrente. |
-| [wshobson/agents](https://github.com/wshobson/agents) | 99% | 69% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 99% | 69% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 99% | 69% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | 99% | 69% | Desktop/Web Utility Factory | Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile. |
-| [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 99% | 69% | Notes · Anna's Diary | Studiare per Notes-Ecosistema/Anna's Diary: editor, search, sync, calendar, task, knowledge model, import/export o progressive disclosure. |
-| [jacob-bd/gemini-notebook-mcp-cli](https://github.com/jacob-bd/gemini-notebook-mcp-cli) | 99% | 67% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) | 99% | 67% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [zzet/gortex](https://github.com/zzet/gortex) | 99% | 67% | ChatGPT · App Factory | Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden. |
-| [Ayush0Chaudhary/blurr](https://github.com/Ayush0Chaudhary/blurr) | 99% | 67% | Utility native · App Factory | Donor/reference per utility Kotlin/Android o capability native Flutter: servizi, tile, permessi, Shizuku o system integration. |
-| [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 99% | 66% | ChatGPT · automazione esterna | Utile per discovery, scraping, benchmark e automazioni; integrare nel workflow solo se riduce lavoro manuale ricorrente. |
+| [laurent22/joplin](https://github.com/laurent22/joplin) | 98% | 54% | Notes · Anna's Diary | Riferimento permanente per Notes: offline-first, Web Clipper, import/export, sync, E2EE, history, conflitti e plugin model. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 97% | 72% | ChatGPT · App Factory | Candidate forte per ottimizzazione harness agentico: memory, research-first, skill/instinct e security. |
+| [Imtiaz-Official/Smart-Edge](https://github.com/Imtiaz-Official/Smart-Edge) | 97% | 72% | Utility native · App Factory | Donor forte per edge gestures, overlay, QS Tile, servizi persistenti e Shizuku. Possibile EdgeDock/SideHub. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 96% | 84% | ChatGPT · App Factory | Candidate source per rafforzare skill engineering, review e performance della App Factory. |
+| [flutter/flutter](https://github.com/flutter/flutter) | 96% | 38% | App Flutter · App Factory | Source of truth tecnica del framework per bug, performance e platform behavior; non è un donor da copiare. |
+| [square/leakcanary](https://github.com/square/leakcanary) | 95% | 92% | AppLab · App Factory | QA debug-only per utility Android native; candidato a gate/Golden di memory-leak detection. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 94% | 86% | ChatGPT · App Factory | Studiare struttura delle skill modulari, caricamento on-demand e contratti operativi per agenti. |
+| [Smooth-E/wireless-adb-switch](https://github.com/Smooth-E/wireless-adb-switch) | 94% | 82% | Utility native · App Factory | Donor diretto per Easy Debloat: Wireless Debugging/Shizuku, tile, widget, boot e pairing helper. Possibile DevBridge. |
+| [leotodisco/PdfUnifier](https://github.com/leotodisco/PdfUnifier) | 93% | 78% | FrameLab · Notes · micro-app | Idea prodotto forte: PDF Pocket Tools e PDF Core riusabile anche dal Document Workspace di Notes. |
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 93% | 67% | Utility native · App Factory | Donor prioritario per Easy Debloat: cataloghi, classificazione pacchetti, safety semantics e UX di debloat. |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 92% | 92% | Desktop/Web Utility Factory | Dataset ideale per CmdPocket e per un Offline Content Pack opzionale in Notes. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 92% | 64% | ChatGPT · App Factory | Riferimento per browser agents e automazione web esterna con navigazione autonoma controllata. |
+| [android/architecture-samples](https://github.com/android/architecture-samples) | 91% | 90% | App Factory · AppLab | Benchmark ufficiale per Compose, ViewModel, Flow, Room, Hilt e test; sanity reference, non template obbligatorio. |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 91% | 78% | ChatGPT · automazione esterna | Motore esterno per crawling/extraction AI-friendly; utile per ricerche massive, competitor audit e discovery. |
+| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 91% | 74% | Desktop/Web Utility Factory | Tecnologia chiave per Desktop Utility Factory; ottimo per Android QA Cockpit e micro-utility PC. |
+| [mrousavy/Colorwaver](https://github.com/mrousavy/Colorwaver) | 91% | 70% | FrameLab · Notes · micro-app | Riferimento per FrameLab: Palette Live/Palette da foto, colori dominanti, HEX/RGB e complementari. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 90% | 66% | ChatGPT · App Factory | Pattern per memoria persistente e compressione del contesto; studiare senza duplicare la Memory di ChatGPT. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 89% | 72% | ChatGPT · App Factory | Riferimento per accesso agentico a fonti web/social; utile per reconnaissance e idea discovery. |
+| [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | 89% | 58% | Game Factory | Donor serio per un roguelike originale nella Game Factory, con forte differenziazione prodotto. |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 88% | 58% | ChatGPT · App Factory | Reference per orchestrazione multi-agent; può ispirare una console App Factory. |
+| [heroiclabs/nakama](https://github.com/heroiclabs/nakama) | 88% | 57% | Game Factory | Backend candidato solo per multiplayer: matchmaking, leaderboards, realtime, social e storage. |
+| [penpot/penpot](https://github.com/penpot/penpot) | 88% | 46% | Design system · app consumer | Reference forte per Visual Workspace di Notes: selection, resize, snapping, layers e design tokens. |
+| [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | 87% | 88% | Utility native · App Factory | Standard candidato per grafici nelle app Kotlin: Battery Guard, TrailPath, SleepMax e FocusSense. |
+| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 86% | 55% | Utility native · App Factory | Reference per accessibility/automazione Android e regole dichiarative; utile per utility e test con permessi sensibili. |
+| [raysan5/raylib](https://github.com/raysan5/raylib) | 82% | 67% | Game Factory | Engine candidato per giochi 2D/3D leggeri; confrontarlo con Flame/Godot. |
+| [appwrite/appwrite](https://github.com/appwrite/appwrite) | 79% | 58% | Backend/sync · app cloud | Backend alternativo self-hostable; non migrare Supabase senza un problema concreto. |
+| [airbnb/lottie-android](https://github.com/airbnb/lottie-android) | 74% | 88% | Design system · app consumer | UI polish selettivo per onboarding/empty/success states; evitare asset e motion eccessivi. |
+| [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) | 73% | 43% | App Flutter · App Factory | Reference per cache offline, file association, local transfer, encrypted archive e cleanup. |
+| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 72% | 94% | AppLab · security | Indice di reconnaissance security per AppLab/App Factory: fonte di strumenti/checklist. |
+| [zxing/zxing](https://github.com/zxing/zxing) | 69% | 82% | FrameLab · Notes · micro-app | Reference/fallback QR/barcode; non sostituire scanner moderni già validi senza motivo. |
+| [Trinea/android-open-project](https://github.com/Trinea/android-open-project) | 68% | 94% | App Factory · AppLab | Meta-repo di discovery per donor Android; sorgente secondaria per la regola 3-5 OSS. |
+| [leereilly/games](https://github.com/leereilly/games) | 66% | 94% | Game Factory | Catalogo discovery per Game Factory: donor, engine e giochi OSS da auditare singolarmente. |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 65% | 48% | Desktop/Web Utility Factory | Laboratorio Rust multipiattaforma interessante per binari piccoli; non sostituisce Flutter. |
+| [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 63% | 76% | Utility native · App Factory | Bacino di snippet/pattern Android: consultare modulo-per-modulo quando manca un Golden. |
+| [mosra/magnum](https://github.com/mosra/magnum) | 43% | 29% | Game Factory | Grafica C++ potente ma sproporzionata per la Factory attuale; tenere per progetti 3D specialistici. |
 
 ## Quando serve descrizione ulteriore
 
