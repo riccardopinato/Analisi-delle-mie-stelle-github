@@ -4,7 +4,7 @@
 
 ## Stato del censimento
 
-- Ultimo refresh: **2026-10-24 23:34 UTC**.
+- Ultimo refresh: **2026-10-24 23:35 UTC**.
 - Conteggio mostrato dalla pagina GitHub Stars: **645**.
 - Repository pubbliche enumerabili via API: **632 uniche**.
 - Gap non enumerabile: **13**.

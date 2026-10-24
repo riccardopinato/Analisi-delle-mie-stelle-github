@@ -1196,7 +1196,7 @@
     "ease": 72,
     "deep": true,
     "future": "Riferimento per accesso agentico a fonti web/social; utile per reconnaissance e idea discovery.",
-    "stars": 101746,
+    "stars": 101748,
     "pushed_at": "2026-10-23T06:44:33Z"
   },
   {
@@ -1604,7 +1604,7 @@
     "ease": 69,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 65314,
+    "stars": 65315,
     "pushed_at": "2026-10-23T01:28:09Z"
   },
   {
@@ -1677,7 +1677,7 @@
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
     "stars": 71469,
-    "pushed_at": "2026-10-24T23:34:28Z"
+    "pushed_at": "2026-10-24T23:34:48Z"
   },
   {
     "name": "LibreChat-AI/LibreChat",
@@ -1761,7 +1761,7 @@
     "deep": false,
     "future": "Estrarre pattern UI/UX, design tokens, motion o component composition e ricondurli al design system della Factory.",
     "stars": 4269,
-    "pushed_at": "2026-10-24T23:33:14Z"
+    "pushed_at": "2026-10-24T23:34:47Z"
   },
   {
     "name": "odysseus-dev/odysseus",
@@ -1784,7 +1784,7 @@
     "ease": 54,
     "deep": false,
     "future": "Bacino Game Factory: engine, gameplay loop, rendering o backend; confrontare sempre con Flame/Godot.",
-    "stars": 363336,
+    "stars": 363337,
     "pushed_at": "2025-08-28T14:42:47Z"
   },
   {
@@ -2912,7 +2912,7 @@
     "ease": 69,
     "deep": false,
     "future": "Reference secondaria; approfondire solo se emerge un requisito direttamente collegato.",
-    "stars": 287847,
+    "stars": 287848,
     "pushed_at": "2026-10-19T07:12:30Z"
   },
   {
@@ -3117,7 +3117,7 @@
     "deep": true,
     "future": "Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile.",
     "stars": 30876,
-    "pushed_at": "2026-10-24T23:34:33Z"
+    "pushed_at": "2026-10-24T23:35:09Z"
   },
   {
     "name": "AhmadIbrahiim/Website-downloader",
@@ -3272,7 +3272,7 @@
     "ease": 77,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 80761,
+    "stars": 80762,
     "pushed_at": "2026-10-24T23:19:00Z"
   },
   {
@@ -3284,7 +3284,7 @@
     "ease": 55,
     "deep": true,
     "future": "Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile.",
-    "stars": 126823,
+    "stars": 126824,
     "pushed_at": "2026-10-24T09:28:24Z"
   },
   {
@@ -3320,7 +3320,7 @@
     "ease": 69,
     "deep": false,
     "future": "Estrarre pattern UI/UX, design tokens, motion o component composition e ricondurli al design system della Factory.",
-    "stars": 58466,
+    "stars": 58467,
     "pushed_at": "2026-10-07T01:17:58Z"
   },
   {
@@ -3344,7 +3344,7 @@
     "ease": 48,
     "deep": false,
     "future": "Valutare per Desktop/Web Utility Factory o tool esterni; possibile micro-app se il problema è semplice e monetizzabile.",
-    "stars": 45242,
+    "stars": 45243,
     "pushed_at": "2026-10-24T17:03:57Z"
   },
   {
@@ -3596,7 +3596,7 @@
     "ease": 69,
     "deep": false,
     "future": "Reference secondaria; approfondire solo se emerge un requisito direttamente collegato.",
-    "stars": 54951,
+    "stars": 54952,
     "pushed_at": "2026-10-08T05:29:29Z"
   },
   {
@@ -4304,7 +4304,7 @@
     "ease": 62,
     "deep": true,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 113668,
+    "stars": 113669,
     "pushed_at": "2026-10-16T21:38:46Z"
   },
   {
@@ -4496,7 +4496,7 @@
     "ease": 69,
     "deep": false,
     "future": "Valutare per skill, agent governance, memoria, tool-use o ricerca in ChatGPT/App Factory; integrare solo se colma un gap rispetto ai Golden.",
-    "stars": 163710,
+    "stars": 163711,
     "pushed_at": "2026-10-19T16:48:24Z"
   },
   {
@@ -4557,7 +4557,7 @@
     "deep": false,
     "future": "Reference secondaria; approfondire solo se emerge un requisito direttamente collegato.",
     "stars": 392956,
-    "pushed_at": "2026-10-24T23:34:01Z"
+    "pushed_at": "2026-10-24T23:35:25Z"
   },
   {
     "name": "ai-boost/awesome-prompts",
