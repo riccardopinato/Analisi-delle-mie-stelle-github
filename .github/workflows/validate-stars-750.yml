@@ -1,0 +1,26 @@
+name: Validate GitHub Stars 750 Incremental Audit
+on:
+  push:
+    branches:
+      - audit/stars-750-20261116
+    paths:
+      - scripts/validate_stars_20261116.py
+      - .github/workflows/validate-stars-750.yml
+  pull_request:
+    paths:
+      - 'data/stars_*2026-11-16.json'
+      - 'research/*2026-11-16.md'
+      - scripts/validate_stars_20261116.py
+      - .github/workflows/validate-stars-750.yml
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check provenance, unique sets, exact counts and no false admissions
+        run: python3 scripts/validate_stars_20261116.py
