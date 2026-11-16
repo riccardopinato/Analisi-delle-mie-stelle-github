@@ -11,6 +11,10 @@
 - Factory baseline audit iniziale: 4cc0b94467b94ab6fabe2c927fcc58afff49e39a — Master v26.6, Golden Index v19.
 - Licenze: **non considerate nello scoring**, su richiesta.
 
+## Intake manuale 16/11/2026 — due riferimenti da verificare come stelle live
+
+L'utente ha fornito [OpenTaskbar](https://github.com/alztrk/opentaskbar) (MIT/C# WPF) e [lumabar](https://github.com/Acadbek/lumabar) (commerciale, codice non pubblico). **Sono due segnalazioni curate, non un refresh autenticato dell'intera lista di stelle**; lo snapshot precedente di 632 repository e il gap storico di 13 non vengono manipolati. [Audit comparativo, licenze, source-pin e destinazioni](research/2026-11-16-opentaskbar-lumabar.md) · [Registro machine-readable dell'intake](data/curated_new_entries_2026-11-16.json).
+
 ## Metodo
 
 - **Utilità %**: impatto concreto su programmazione, gestione, velocità, QA, AppLab/App Factory/ChatGPT o nuove app.
