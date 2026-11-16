@@ -1,0 +1,49 @@
+name: Audit new public GitHub stars 2026-11-16
+on:
+  push:
+    branches:
+      - audit/stars-750-20261116
+    paths:
+      - scripts/audit_stars_delta.py
+      - .github/workflows/audit-stars-750.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  census:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Enumerate starred public repos and audit README deltas
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/audit_stars_delta.py
+      - name: Validate census against original baseline
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          a=json.loads(Path('data/stars_delta_2026-11-16.json').read_text())
+          b=json.loads(Path('data/stars_current_2026-11-16.json').read_text())
+          n=a['summary']
+          assert len(b['repositories'])==n['current_public']
+          assert len(a['new_public'])==n['new_public']
+          assert len(set(x['name'].lower() for x in b['repositories']))==len(b['repositories'])
+          assert n['old_public']==632
+          assert Path('research/STARS_INCREMENTAL_2026-11-16.md').is_file()
+          assert Path('research/STARS_ALL_2026-11-16.md').is_file()
+          print('STAR_DELTA_VALIDATED',n['current_public'],n['new_public'],n['readmes_checked'])
+          PY
+      - name: Commit generated candidate research on audit branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/stars_current_2026-11-16.json data/stars_delta_2026-11-16.json research/STARS_INCREMENTAL_2026-11-16.md research/STARS_ALL_2026-11-16.md
+          if git diff --cached --quiet; then echo 'No changes'; exit 0; fi
+          git commit -m 'data: census public stars and audit newly enumerated repositories'
+          git push origin HEAD:audit/stars-750-20261116

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-11-16",
+  "input": "two URLs supplied explicitly by user",
+  "authenticated_stars_query": "NOT_AVAILABLE",
+  "source_baseline_public_count": 632,
+  "repository_entries": [
+    {
+      "name": "alztrk/opentaskbar",
+      "url": "https://github.com/alztrk/opentaskbar",
+      "source_commit": "6348d7519f83e032c31a065d72ad3b327906da15",
+      "source_kind": "CURATED_USER_INPUT",
+      "stars_verification": "UNVERIFIED",
+      "license": "MIT",
+      "source_availability": "SOURCE_AVAILABLE",
+      "classification": "CODE_DONOR_CANDIDATE_WINDOWS",
+      "category": "Desktop / web utility",
+      "recommended_consumers": [
+        "Adaptive-Landscape-Android (UX reference)",
+        "Design-App",
+        "Desktop Utility Factory"
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "name": "Acadbek/lumabar",
+      "url": "https://github.com/Acadbek/lumabar",
+      "website": "https://lumabar.xyz/",
+      "source_commit": "5929d128d617b7d86165f74fa74bfc3fbcfbed32",
+      "source_kind": "CURATED_USER_INPUT",
+      "stars_verification": "UNVERIFIED",
+      "license": "PROPRIETARY_NO_OSS_LICENSE",
+      "source_availability": "RELEASE_DOCS_ONLY",
+      "classification": "UI_UX_PRODUCT_REFERENCE",
+      "category": "Desktop / web utility",
+      "recommended_consumers": [
+        "Design-App",
+        "App Factory Control Center",
+        "Adaptive-Landscape-Android (concept only)"
+      ],
+      "date": "2026-11-16"
+    }
+  ]
+}

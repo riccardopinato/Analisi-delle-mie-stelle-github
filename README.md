@@ -2,7 +2,21 @@
 
 > Registro vivo orientato a App Factory, AppLab, ChatGPT, sviluppo app, automazione e nuove idee prodotto.
 
-## Stato del censimento
+## Audit aggiornato — 16 novembre 2026
+
+**750 stelle riportate dall'utente; 737 repository pubbliche confermate dalla GitHub API**, 13 non enumerabili dal canale pubblico. Censimento incrementale contro l'archivio di ottobre: **110 nuove nel set pubblico**, 627 già presenti e 5 vecchie non più visibili. **110/110 README acquisiti.**
+
+Il confronto con la ricerca curata OSS95 dimostra che **89/110 erano già catalogate**, quattro avevano dossier separati (GBrain, Deskland, OpenTaskbar, LumaBar), **17 sono fonti da esaminare come nuove**. Tra le 89, **70 README identici** per hash e **19 cambiati/precedentemente senza hash comparabile**. Nessuna nuova CAP/Golden/integrazione è certificata da questo inventario.
+
+- [**Classifica ragionata di tutte le 110 nuove fonti**](research/CLASSIFICA_CURATA_110_2026-11-16.md)
+- [**Classifica generale delle 737 stelle pubbliche**](research/STARS_ALL_2026-11-16.md)
+- [**Schede automatizzate con README, source-pin e licenza**](research/STARS_INCREMENTAL_2026-11-16.md)
+- [**Incrocio con audit OSS95 e 17 realmente non censite**](research/INCROCIO_OSS95_2026-11-16.md)
+- [Snapshot machine-readable e rating curati](data/stars_curated_2026-11-16.json)
+
+Gli score sono stime comparative, non percentuali di successo. Non confondere il nuovo elenco API pubblico con le stelle private dell'account, gli hash README con codice testato, o il codice pubblicato con licenza utilizzabile.
+
+## Stato del censimento storico (24 ottobre 2026)
 
 - Ultimo refresh: **2026-10-24 23:35 UTC**.
 - Conteggio mostrato dalla pagina GitHub Stars: **645**.
@@ -10,6 +24,10 @@
 - Gap non enumerabile: **13**.
 - Factory baseline audit iniziale: 4cc0b94467b94ab6fabe2c927fcc58afff49e39a — Master v26.6, Golden Index v19.
 - Licenze: **non considerate nello scoring**, su richiesta.
+
+## Intake manuale 16/11/2026 — due riferimenti da verificare come stelle live
+
+L'utente ha fornito [OpenTaskbar](https://github.com/alztrk/opentaskbar) (MIT/C# WPF) e [lumabar](https://github.com/Acadbek/lumabar) (commerciale, codice non pubblico). **Sono due segnalazioni curate, non un refresh autenticato dell'intera lista di stelle**; lo snapshot precedente di 632 repository e il gap storico di 13 non vengono manipolati. [Audit comparativo, licenze, source-pin e destinazioni](research/2026-11-16-opentaskbar-lumabar.md) · [Registro machine-readable dell'intake](data/curated_new_entries_2026-11-16.json).
 
 ## Metodo
 
